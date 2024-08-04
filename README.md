@@ -1,3 +1,10 @@
+> [!WARNING]
+>
+> **Deprecated**
+> Use [`@core/errorutil`](https://jsr.io/@core/errorutil) instead.
+>
+> - https://github.com/jsr-core/errorutil
+
 # errorutil
 
 [![JSR](https://jsr.io/badges/@lambdalisue/errorutil)](https://jsr.io/@lambdalisue/errorutil)
